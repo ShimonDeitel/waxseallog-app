@@ -1,0 +1,29 @@
+{
+  "identifier": "waxseallog",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "waxseallog_pro",
+      "localizations": [
+        {
+          "description": "Unlimited seals and an impression photo gallery",
+          "displayName": "Wax Seal Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "waxseallog_pro",
+      "referenceName": "Wax Seal Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
